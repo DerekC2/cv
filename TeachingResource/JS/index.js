@@ -153,7 +153,7 @@ function addNoImage2() {
   src.appendChild(img);
 }
 function addYesImage2() {
-  alert("THUMBS UP");
+  //alert("THUMBS UP");
   var img = document.createElement("img");
   img.src = "images/yes-thumb.jpg";
   var src = document.getElementById("task2Stamp")
